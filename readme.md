@@ -1,6 +1,6 @@
 # Introduction
 
-> Introduction & présentation de BeCode pour les nouveaux apprenants
+> Introduction & présentation de BeCode pour les nouveaux apprenants.
 
 * * *
 
